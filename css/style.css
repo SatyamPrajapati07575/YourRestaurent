@@ -1,0 +1,26 @@
+.my-sec{
+    height: 250px;
+    background-image: url('../images/hero_2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.my-sec-inner{
+    color: white;
+    margin: 100px auto;
+    text-align: center;
+}
+.about_c{
+    text-align: center;
+}
+.my-img1{
+    background-image: url('../images/menu-group-1.jpg');
+}
+.my-img2{
+    background-image: url('../images/menu-group-2.jpg');
+}
+.my-img3{
+    background-image: url('../images/menu-group-3.jpg');
+}
+.my-img4{
+    background-image: url('../images/menu-group-4.jpg');
+}
